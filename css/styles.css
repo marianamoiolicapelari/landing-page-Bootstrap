@@ -33,7 +33,7 @@
 }
 
 #navbar a.active {
-  border-bottom: 1px solid #050505;
+  border-bottom: none;
 }
 
 .navbar-brand {
@@ -58,6 +58,12 @@
 
 #navbar-items .nav-item {
   margin: 0 1em;
+}
+
+@media(min-width: 768px) {
+  #navbar-items .navbar-nav {
+    justify-content: flex-end;
+  }
 }
 
 /* SLIDER */
@@ -93,12 +99,12 @@
 }
 
 .carousel-indicators [data-bs-target] {
-  background-color: #222;
+  background-color: #000;
   opacity: 0.8;
 }
 
 .carousel-indicators .active {
-  background-color: #000;
+  background-color: #fff;
 }
 
 @media(min-width: 768px) {
