@@ -1,8 +1,7 @@
-# Landing Page Bootstrap
+# Landing Page First Mobile criada a partir do framework Bootstrap.
 
 ## 💻 Sobre o Projeto
-Este formulário para valição de senha foi criado com HTML e CSS responsivo. Usei o Java Script para implementar as funções onde verifica se os dados
-estão corretos e então retorna a validação para que os mesmos sejam enviados para o destino.
+Foi feita a navbar fixa com alguns links e após isso criamos o componente de slider ativado pelo JavaScript do Bootstrap com 3 imagens. Também utilizamos o grid do Bootstrap para dimensionar o conteúdo do site que foi feito em mobite first e adaptado para desktop utilizando media queries. A versão utilizada foi a do Bootstrap 5.
 
 ## 🎨 Layout
 
@@ -19,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💡 Como executar o projeto
 
-Esse projeto foi elaborado para web e mobile. Você somente consegue enviar os dados quando todos os campos forem válidos.<br/>
+Esse projeto foi elaborado em mobile first, mas você consegue acessar de desktop também.
 Para acessar basta clicar no link abaixo:
 
 https://landingpagebootstrapmmc.netlify.app/
