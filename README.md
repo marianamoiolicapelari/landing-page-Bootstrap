@@ -1,7 +1,9 @@
-# Landing Page First Mobile criada a partir do framework Bootstrap.
+# Landing Page Mobile First criada a partir do framework Bootstrap.
 
 ## 💻 Sobre o Projeto
-Foi feita a navbar fixa com alguns links e após isso criamos o componente de slider ativado pelo JavaScript do Bootstrap com 3 imagens. Também utilizamos o grid do Bootstrap para dimensionar o conteúdo do site que foi feito em mobite first e adaptado para desktop utilizando media queries. A versão utilizada foi a do Bootstrap 5.
+Foi feita a navbar fixa com alguns links e após isso criamos o componente de slider ativado pelo JavaScript do Bootstrap com 3 imagens. Também utilizamos o
+grid do Bootstrap para dimensionar o conteúdo do site que foi feito em mobite first e adaptado para desktop utilizando media queries. A versão utilizada foi a do 
+Bootstrap 5.
 
 ## 🎨 Layout
 
