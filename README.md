@@ -5,10 +5,6 @@ Foi feita a navbar fixa com alguns links e após isso criamos o componente de sl
 grid do Bootstrap para dimensionar o conteúdo do site que foi feito em mobite first e adaptado para desktop utilizando media queries. A versão utilizada foi a do 
 Bootstrap 5.
 
-## 🎨 Layout
-
-![image]()
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
