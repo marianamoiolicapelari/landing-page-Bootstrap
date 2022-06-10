@@ -43,7 +43,7 @@
 .navbar-brand img {
   width: 40px
 }
-  
+
 .navbar-brand span {
   font-weight: 700;
   font-size: 1.5em;
@@ -78,7 +78,7 @@
 }
 
 #slider .carousel-caption h5 {
-  font-size: 2.5em;
+  font-size: 1.7em;
   text-shadow: #000 2px 2px;
 }
 
@@ -187,7 +187,7 @@
   cursor: pointer;
 }
 
-#featured-images .col-md-4:hover > .banner-content {
+#featured-images .col-md-4:hover>.banner-content {
   opacity: 0.8;
 }
 
@@ -202,7 +202,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  opacity: 0.6;
+  opacity: 0;
   transition: 0.5s;
 }
 
@@ -215,16 +215,17 @@
     bottom: 1.5em;
   }
 
-  #featured-images .banner-content {
-    opacity: 0;
-  }
+}
+
+#featured-images .col-md-4:hover>.banner-content {
+  opacity: 0.8;
 }
 
 /* INFO */
 
 #info-content {
   margin-bottom: 4em;
-  padding: 4em 1em;
+  padding: 2em 1em;
 }
 
 #info-numbers {
@@ -238,7 +239,7 @@
 }
 
 #info-numbers h3 {
-  font-size: 3em;
+  font-size: 2em;
 }
 
 @media (min-width: 768px) {
@@ -251,7 +252,7 @@
 
 #footer {
   padding: 3em 2em;
-} 
+}
 
 #footer-top {
   margin-bottom: 2em;
@@ -269,7 +270,7 @@
 #social-icons i {
   margin-right: 1em;
   font-size: 1.5em;
-  cursor: pointer;  
+  cursor: pointer;
 }
 
 #social-icons i:hover {
