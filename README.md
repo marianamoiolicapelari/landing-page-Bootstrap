@@ -19,7 +19,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Esse projeto foi elaborado em mobile first, mas você consegue acessar de desktop também.
 Para acessar basta clicar no link abaixo:
 
-https://landingpagebootstrapmmc.netlify.app/
+https://iformbootstrap.netlify.app/
 
 ## 📝 Licença
 
