@@ -1,4 +1,4 @@
-# Landing Page Mobile First criada a partir do framework Bootstrap.
+# Landing Page Mobile First criada com Bootstrap.
 
 ## 💻 Sobre o Projeto
 Foi feita a navbar fixa com alguns links e após isso criamos o componente de slider ativado pelo JavaScript do Bootstrap com 3 imagens. Também utilizamos o
